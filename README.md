@@ -1,1 +1,1 @@
-# super-eureka
+# whitepaper.github.io
