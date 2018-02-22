@@ -179,7 +179,7 @@
 		}
 
 	h1 {
-		font-size: 2.25rem;
+		font-size: 3rem;
 		line-height: 1.3;
 		letter-spacing: 0.5rem;
 	}
@@ -191,7 +191,7 @@
 	}
 
 	h3 {
-		font-size: 1rem;
+		font-size: 1.6rem;
 	}
 
 	h4 {
@@ -1209,7 +1209,7 @@
 				display: block;
 				position: absolute;
 				top: calc(-3.5rem - 1px);
-				left: calc(55% - 5px);
+				left: calc(54% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
 				background: #ffffff;
